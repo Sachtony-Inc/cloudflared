@@ -15,6 +15,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
+	"https://github.com/sachtonysoft/resources"
 )
 
 // Proxy is an HTTP server that proxies requests to a Client.
