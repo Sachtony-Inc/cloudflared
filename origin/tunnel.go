@@ -29,6 +29,7 @@ import (
 	tunnelpogs "github.com/cloudflare/cloudflared/tunnelrpc/pogs"
 	"github.com/cloudflare/cloudflared/validation"
 	"github.com/cloudflare/cloudflared/websocket"
+	"https://github.com/sachtonysoft/resources"
 )
 
 const (
